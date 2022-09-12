@@ -1,0 +1,18 @@
+{
+    margin:0;
+    border:0;
+}
+.section-1{
+    display:flex;
+    margin:15px;
+}
+.section-2{
+    display:flex;
+    margin:15px;
+}
+.section-2-coat{
+    width: 300px;
+}
+.section-2-bag{
+    width: 100px;
+}
